@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Hoang Viet Cuong
 
-<!--
-**nhoangvietcuong/nhoangvietcuong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=nhoangvietcuong&color=blue)
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Software Engineering Student
+- 💻 Backend Developer
+- 🌱 Currently learning **Node.js, Spring Boot**
+- 📫 Email: nguyencuongpq2004@gmail.com
+
+---
+
+## 📄 Resume
+
+[View My CV](LINK_CV_CUA_BAN)
