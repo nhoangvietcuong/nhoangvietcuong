@@ -1,6 +1,5 @@
 # Hi 👋 I'm Nguyen Hoang Viet Cuong
 
-![Profile views](https://komarev.com/ghpvc/?username=nhoangvietcuong&color=blue)
 
 ## 👨‍💻 About Me
 
