@@ -12,4 +12,4 @@
 
 ## 📄 Resume
 
-[View My CV](https://drive.google.com/file/d/1TaydRGSAiPJHoHi4vINaDd-v-axt7RxR/view?usp=sharing)
+[![View CV](https://img.shields.io/badge/Download-CV-blue)](https://drive.google.com/file/d/1TaydRGSAiPJHoHi4vINaDd-v-axt7RxR/view?usp=sharing)
