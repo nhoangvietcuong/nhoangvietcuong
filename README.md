@@ -12,4 +12,4 @@
 
 ## 📄 Resume
 
-[View My CV](LINK_CV_CUA_BAN)
+[View My CV](https://drive.google.com/drive/u/0/folders/1VqIKGmTwLWtgx5AJ-BrzajOMCAfB2U7D)
